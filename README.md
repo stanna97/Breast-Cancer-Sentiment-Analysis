@@ -11,7 +11,7 @@ Grade Recieved: A
 
 Project Kepypoints:
 
-• Identified and collected over 17K tweets based on breast cancer using Tweepy using related hashtags
+• Identified and collected over 17,000 tweets based on breast cancer using Tweepy using related hashtags
 
 • Successfully cleaned and processed data using REGEX and TF-IDF vectors to present an analysis of the tweets using PySpark on an AWS EMR cluster
 
